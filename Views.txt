@@ -1,9 +1,0 @@
-1.Perspective, There is a difference between seeing and watching;  Someone sees the sea as a place of saltwater and someone watches as the origin of life isn't it?
-
-2. If you want a technical answer, there is plenty of it and I can write that too; but in one sentence, testing is nothing but finding a needle in sand or haystack! 
-
-3. Simply if you know your world you can create test cases without any requirements, for an instance, you see a Tree as a "Tree" only(that's without requirement), and if your find is curious enough to improve the overall tree! Then you can write lots of test cases  
-
-4. Value for me! because a donkey also puts an effort into its work, but in the end its a donkey! If you value something you don't put effort you put your mind, your passion, your enthusiasm, and lastly you love what you do!
-
-5. Learn and generate some ideas! In business demand is important rather than supply isn't it?  Improvement is key when there is nothing to do! do analyze your previous mistake and improve your self, for personally I believe teamwork as the saying goes "If you want to walk fast, walk alone and if you want to walk longer, walk together"
